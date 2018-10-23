@@ -1,2 +1,2 @@
 # jsonvalidation
-Playground for evaluating json validation
+Playground for evaluating json validation from rest
